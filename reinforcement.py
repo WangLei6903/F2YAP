@@ -8,8 +8,8 @@ import pandas as pd
 
 dt = 0.0001
 KT = 4.1
-DEFAULT_TMAX = 300 #300
-N_repeats = 100 # 300
+DEFAULT_TMAX = 300
+N_repeats = 300
 BASE_OUTPUT_DIR = "./simulation_results"
 
 config = {
